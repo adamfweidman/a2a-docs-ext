@@ -25,7 +25,7 @@ Inspired by: https://github.com/derailed-dash/adk-docs-ext
 To install this extension run:
 
 ```bash
-gemini extensions install https://github.com/derailed-dash/a2a-docs-ext
+gemini extensions install https://github.com/adamfweidman/a2a-docs-ext
 ```
 
 The extension will be installed, and you can immediately start asking questions
