@@ -1,0 +1,21 @@
+{
+  "name": "a2a-docs-ext",
+  "version": "1.0.0",
+  "mcpServers": {
+    "a2a-docs-mcp": {
+      "command": "uvx",
+      "args": [
+        "--from",
+        "mcpdoc",
+        "mcpdoc",
+        "--urls",
+        "A2A_Protocol:${extensionPath}/llms.txt",
+        "--allowed-domains",
+        "*",
+        "--transport",
+        "stdio"
+      ]
+    }
+  },
+  "contextFileName": "GEMINI.md"
+}

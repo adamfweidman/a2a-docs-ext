@@ -1,0 +1,42 @@
+# A2A Protocol Documentation
+
+> Documentation and specifications for the Agent2Agent (A2A) Protocol.
+> Automatically generated from sitemap.xml.
+
+## Detailed Topics
+- [A2A And Mcp](https://a2a-protocol.org/latest/topics/a2a-and-mcp/)
+- [Agent Discovery](https://a2a-protocol.org/latest/topics/agent-discovery/)
+- [Enterprise Ready](https://a2a-protocol.org/latest/topics/enterprise-ready/)
+- [Extensions](https://a2a-protocol.org/latest/topics/extensions/)
+- [Key Concepts](https://a2a-protocol.org/latest/topics/key-concepts/)
+- [Life Of A Task](https://a2a-protocol.org/latest/topics/life-of-a-task/)
+- [Streaming And Async](https://a2a-protocol.org/latest/topics/streaming-and-async/)
+- [What Is A2A](https://a2a-protocol.org/latest/topics/what-is-a2a/)
+
+## Tutorials
+- [1 Introduction](https://a2a-protocol.org/latest/tutorials/python/1-introduction/)
+- [2 Setup](https://a2a-protocol.org/latest/tutorials/python/2-setup/)
+- [3 Agent Skills And Card](https://a2a-protocol.org/latest/tutorials/python/3-agent-skills-and-card/)
+- [4 Agent Executor](https://a2a-protocol.org/latest/tutorials/python/4-agent-executor/)
+- [5 Start Server](https://a2a-protocol.org/latest/tutorials/python/5-start-server/)
+- [6 Interact With Server](https://a2a-protocol.org/latest/tutorials/python/6-interact-with-server/)
+- [7 Streaming And Multiturn](https://a2a-protocol.org/latest/tutorials/python/7-streaming-and-multiturn/)
+- [8 Next Steps](https://a2a-protocol.org/latest/tutorials/python/8-next-steps/)
+- [Tutorials](https://a2a-protocol.org/latest/tutorials/)
+
+## SDKs
+- [Python](https://a2a-protocol.org/latest/sdk/python/)
+- [Sdk](https://a2a-protocol.org/latest/sdk/)
+
+## Specification
+- [Definitions](https://a2a-protocol.org/latest/definitions/)
+- [Specification](https://a2a-protocol.org/latest/specification/)
+
+## Community & Roadmap
+- [Community](https://a2a-protocol.org/latest/community/)
+- [Partners](https://a2a-protocol.org/latest/partners/)
+- [Roadmap](https://a2a-protocol.org/latest/roadmap/)
+
+## Other
+- [Latest](https://a2a-protocol.org/latest/)
+
